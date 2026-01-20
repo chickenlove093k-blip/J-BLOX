@@ -1,0 +1,8 @@
+{
+  "name": "JesseBlox",
+  "description": "The ultimate AI-powered game generation platform. Play remakes of any world instantly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
